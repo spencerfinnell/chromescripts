@@ -8,6 +8,6 @@
 
     "content_scripts":[{
         "matches" : ["http://*/*"],
-        "js" : ["jquery.js", "jquery.hotkeys.js", "resolved.js"]
+        "js" : ["jquery.js", "jquery.hotkeys.js", "resolved.js", "assign.js"]
     }]
 }
